@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jesicasusanto
 - 👀 I’m interested in starting my first project, connect with more people with the same interest, learning new things, and belly-rubbing my poodle. 
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on any projects that involves machine learning and artificial intellegence.
+- 💞️ I’m looking to collaborate on any projects that involves python and games.
 - 📫 How to reach me : 
   email - jesica.ssnt@gmail.com
   linkedin - jesica susanto

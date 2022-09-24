@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @jesicasusanto
-- 👀 I’m interested in starting my first project, connect with more people with the same interest, learning new things, and belly-rubbing my poodle. 
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on any projects that involves python and games.
+- 👀 I’m interested in connecting with more people with the same interest, learning new things, and belly-rubbing my poodle. 
+- 🌱 I’m currently a Computer Science student at UofT.
 - 📫 How to reach me : 
   email - jesica.ssnt@gmail.com
-  linkedin - jesica susanto
+  linkedin - https://www.linkedin.com/in/jesicasusanto/
 
 <!---
 jesicasusanto/jesicasusanto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
